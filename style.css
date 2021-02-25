@@ -1,0 +1,264 @@
+.grid-container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+body {
+	background-image: url("pictures/back.gif");;
+}
+
+.item1{
+	background-color:red;
+	width: 33%;
+	height: 200px;
+	background-image: url("pictures/1.gif");
+	background-position: center;
+	background-position: top;
+}
+
+.item2 {
+	background-color:orange;
+	width: 33%;
+	height: 200px;
+	background-image: url("pictures/2.gif");
+}
+
+.item3 {
+	background-color:yellow;
+	width: 33%;
+	height: 200px;
+	background-image: url("pictures/3.gif");
+	background-size: cover;
+}
+
+.item4{
+	background-color:lime;
+	width: 16.5%;
+	height: 500px;
+	margin-top: .5%;
+	background-image: url("pictures/4.gif");
+}
+
+.item5 {
+	background-color:cyan;
+	width: 66%;
+	height: 500px;
+	margin-top: .5%;
+	background-image: url("pictures/5.gif");
+	background-position: center;
+}
+
+.item6{
+	background-color:violet;
+	width: 16.5%;
+	height: 500px;
+	margin-top: .5%;
+	background-image: url("pictures/6.gif");
+	background-position: center;
+}
+
+.item7{
+	background-color:purple;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/7.gif");
+}
+
+.item8{
+	background-color: slateblue;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/8.gif");
+	background-position: center;
+}
+
+.item9{
+	background-color:grey;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/9.gif");
+	background-position: top;
+}
+
+.item10{
+	background-color:red;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/10.gif");
+	background-position: center;
+	background-position: top;
+}
+
+.item11 {
+	background-color:orange;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/11.gif");
+}
+
+.item12 {
+	background-color:yellow;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/12.gif");
+	background-size: cover;
+	background-position: center;
+}
+
+.item13{
+	background-color:lime;
+	width: 16.5%;
+	height: 500px;
+	margin-top: .5%;
+	background-image: url("pictures/13.gif");
+	background-position: center;
+	background-size: cover;
+
+}
+
+.item14 {
+	background-color:cyan;
+	width: 66%;
+	height: 500px;
+	margin-top: .5%;
+	background-image: url("pictures/14.gif");
+	background-position: center;
+	background-size: cover;
+}
+
+.item15{
+	background-color:violet;
+	width: 16.5%;
+	height: 500px;
+	margin-top: .5%;
+	background-image: url("pictures/15.gif");
+	background-position: center;
+	background-size: cover;
+}
+
+.item16{
+	background-color:purple;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/16.gif");
+	background-position: top;
+	background-size: cover;
+}
+
+.item17{
+	background-color: slateblue;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/17.gif");
+	background-position: center;
+}
+
+.item18{
+	background-color:grey;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/18.gif");
+	background-position: center;
+}
+
+
+
+
+.item19{
+	background-color:red;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/19.gif");
+	background-position: center;
+	background-position: top;
+}
+
+.item20 {
+	background-color:orange;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/20.gif");
+	background-size: cover;
+	background-position: center;
+}
+
+.item21 {
+	background-color:yellow;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/21.gif");
+	background-size: cover;
+	background-position: center;
+}
+
+.item22{
+	background-color:lime;
+	width: 16.5%;
+	height: 500px;
+	margin-top: .5%;
+	background-image: url("pictures/22.gif");
+	background-position: center;
+	background-size: cover;
+}
+
+.item23 {
+	background-color:cyan;
+	width: 66%;
+	height: 500px;
+	margin-top: .5%;
+	background-image: url("pictures/23.gif");
+	background-position: center;
+	background-size: cover;
+}
+
+.item24{
+	background-color:violet;
+	width: 16.5%;
+	height: 500px;
+	margin-top: .5%;
+	background-image: url("pictures/24.gif");
+	background-position: center;
+	background-size: cover;
+}
+
+.item25{
+	background-color:purple;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/25.gif");
+	background-position: center;
+	background-size: cover;
+}
+
+.item26{
+	background-color: slateblue;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/26.gif");
+	background-position: center;
+}
+
+.item27{
+	background-color:grey;
+	width: 33%;
+	height: 200px;
+	margin-top: .5%;
+	background-image: url("pictures/27.gif");
+	background-position: center;
+	background-size: cover;
+}
