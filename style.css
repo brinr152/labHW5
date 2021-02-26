@@ -266,6 +266,7 @@ body {
 	background-color:red;
 	width: 33%;
 	height: 200px;
+	margin-top: .5%;
 	background-image: url("pictures/1.gif");
 	background-position: center;
 	background-position: top;
@@ -275,6 +276,7 @@ body {
 	background-color:orange;
 	width: 33%;
 	height: 200px;
+	margin-top: .5%;
 	background-image: url("pictures/2.gif");
 }
 
@@ -282,6 +284,7 @@ body {
 	background-color:yellow;
 	width: 33%;
 	height: 200px;
+	margin-top: .5%;
 	background-image: url("pictures/3.gif");
 	background-size: cover;
 }
@@ -520,6 +523,7 @@ body {
 	background-color:red;
 	width: 33%;
 	height: 200px;
+	margin-top: .5%;
 	background-image: url("pictures/1.gif");
 	background-position: center;
 	background-position: top;
@@ -529,6 +533,7 @@ body {
 	background-color:orange;
 	width: 33%;
 	height: 200px;
+	margin-top: .5%;
 	background-image: url("pictures/2.gif");
 }
 
@@ -536,6 +541,7 @@ body {
 	background-color:yellow;
 	width: 33%;
 	height: 200px;
+	margin-top: .5%;
 	background-image: url("pictures/3.gif");
 	background-size: cover;
 }
